@@ -14,7 +14,7 @@ School App MVC is a pragmatic school management application developed using Java
 
 - **DTOs:** Data Transfer Objects (DTOs) facilitate the exchange of data between different parts of the application.
 
-- **Model:** The application model represents the structure and organization of data, including students, teachers, and roles.
+- **Model:** The application model represents the structure and organization of data, including students, teachers, specialities, cities and users.
 
 - **Validators:** Validators ensure data input meets the required criteria.
 
