@@ -28,7 +28,6 @@ SchoolAppMvc represents a school management application built with Java EE follo
 
 The application is built using Apache Maven. The `pom.xml` file includes dependencies required for the project.
 
-```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
