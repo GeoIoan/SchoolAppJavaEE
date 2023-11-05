@@ -1,6 +1,6 @@
-# SchoolAppMvc
+# SchoolAppJavaEE
 
-School App MVC is a pragmatic school management application developed using Java EE and adhering to the Model-View-Controller (MVC) architectural pattern. This application provides users with the means to create accounts and login as either teachers or students. Teachers can readily execute CRUD operations related to student data. In the future, students will gain access to their course and meeting details. Furthermore, the application's functionality will be structured using an impending role-based system, granting specific teachers the ability to oversee teacher-related data as per their designated roles.
+School App Java EE is a pragmatic school management application developed using Java EE. This application provides users with the means to create accounts and login as either teachers or students. Teachers can readily execute CRUD operations related to student data. In the future, students will gain access to their course and meeting details. Furthermore, the application's functionality will be structured using an impending role-based system, granting specific teachers the ability to oversee teacher-related data as per their designated roles.
 
 ## Application Components
 
